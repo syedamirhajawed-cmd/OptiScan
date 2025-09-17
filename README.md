@@ -69,7 +69,7 @@ OptiAuth revolutionizes attendance management through:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/BrightsSolution/OptiAuth.git
+   git clone https://github.com/syedamirhajawed-cmd/OptiScan.git
    cd OptiAuth
    ```
 
